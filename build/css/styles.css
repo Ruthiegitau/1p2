@@ -1,0 +1,9 @@
+body {
+  background-image: url("/resources/image/img1.jpg");
+  background-size: 1300px 750px;
+  background-repeat: no-repeat; }
+
+h1 {
+  color: blue; }
+
+/*# sourceMappingURL=data:application/json;charset=utf8;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoic3R5bGVzLmNzcyIsInNvdXJjZXMiOlsic3R5bGVzLnNjc3MiXSwic291cmNlc0NvbnRlbnQiOlsiYm9keXtcbiAgYmFja2dyb3VuZC1pbWFnZTogdXJsKFwiL3Jlc291cmNlcy9pbWFnZS9pbWcxLmpwZ1wiKTtcbiAgYmFja2dyb3VuZC1zaXplOiAxMzAwcHggNzUwcHg7XG4gIGJhY2tncm91bmQtcmVwZWF0Om5vLXJlcGVhdDtcbiAgXG5cbn1cbmgxe1xuICBjb2xvcjogYmx1ZTtcbn1cbiJdLCJtYXBwaW5ncyI6IkFBQUEsQUFBQSxJQUFJLENBQUE7RUFDRixnQkFBZ0IsRUFBRSxnQ0FBRztFQUNyQixlQUFlLEVBQUUsWUFBYTtFQUM5QixpQkFBaUIsRUFBQyxTQUFVLEdBRzdCOztBQUNELEFBQUEsRUFBRSxDQUFBO0VBQ0EsS0FBSyxFQUFFLElBQUssR0FDYiIsIm5hbWVzIjpbXX0= */
